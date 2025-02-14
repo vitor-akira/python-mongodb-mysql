@@ -6,8 +6,8 @@ Este projeto tem como objetivo construir um pipeline de dados utilizando Python,
 ```
 📦 pipeline-python-mongo-mysql
 ├── 📁 data              # Dados 
-├── 📁 notebooks         # Notebooks Jupyter para análise
-├── 📁 scripts           # Scripts Python para processamento
+├── 📁 notebooks         # Notebooks Jupyter 
+├── 📁 scripts           # Scripts Python 
 └── 📄 requirements.txt  # Bibliotecas necessárias
 ```
 
